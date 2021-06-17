@@ -6,3 +6,10 @@ Part of this application is the YOLO convolutional model, which is designed to d
 
 # GUI
 * Detection from an existing video
+![alt text](https://github.com/xmedyn00/Object-detection/blob/main/Application%20samples/Sample_4.jpg)
+* Real-time detection
+![alt text](https://github.com/xmedyn00/Object-detection/blob/main/Application%20samples/Sample_6.jpg)
+* Select detection object
+![alt text](https://github.com/xmedyn00/Object-detection/blob/main/Application%20samples/Sample_7.jpg)
+* Select ROI area
+* ![alt text](https://github.com/xmedyn00/Object-detection/blob/main/Application%20samples/Sample_1.jpg)
