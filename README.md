@@ -22,4 +22,4 @@ Part of this application is the YOLO convolutional model, which is designed to d
 * Select detection object
 ![alt text](https://github.com/xmedyn00/Object-detection/blob/main/Application%20samples/Sample_7.jpg)
 * Select ROI area
-* ![alt text](https://github.com/xmedyn00/Object-detection/blob/main/Application%20samples/Sample_1.jpg)
+![alt text](https://github.com/xmedyn00/Object-detection/blob/main/Application%20samples/Sample_1.jpg)
