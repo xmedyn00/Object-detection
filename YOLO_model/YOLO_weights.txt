@@ -1,0 +1,12 @@
+You can download from the link below:
+files for YOLOv4:
+*yolov4-obj.cfg
+*yolov4-obj_best.weights
+files for YOLOv4-tiny:
+*yolov4-tiny-obj.cfg
+*yolov4-tiny-obj_best.weights
+test video:
+*test_video.mp4
+
+
+https://vutbr-my.sharepoint.com/:f:/g/personal/xmedyn00_vutbr_cz/EkSGttlCQ9dBj0HEGGnx98UBVw0hInqtwmnJhSoJ5ovggg?e=nSDTog
