@@ -6,11 +6,11 @@ Part of this application is the YOLO convolutional model, which is designed to d
 
 # Software
 * C++
-* OpenCV
+* OpenCV (v. 4.5)
 * cuDNN
-* Qt
+* Qt (v. 4.13.1)
 * YOLO
-  * yolov4
+  * yolov4 
   * yolov4-tiny
 * Darknet
 
