@@ -4,6 +4,16 @@ in video using convolutional neural networks. The resulting application can dete
 in video or in real time and includes a user interface that allows the user to easily control the application. 
 Part of this application is the YOLO convolutional model, which is designed to detect moving objects.
 
+# Software
+* C++
+* OpenCV
+* cuDNN
+* Qt
+* YOLO
+  * yolov4
+  * yolov4-tiny
+* Darknet
+
 # GUI
 * Detection from an existing video
 ![alt text](https://github.com/xmedyn00/Object-detection/blob/main/Application%20samples/Sample_4.jpg)
